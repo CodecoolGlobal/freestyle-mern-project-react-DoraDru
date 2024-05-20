@@ -54,7 +54,7 @@ npm install
 
 ### Proxy
 
-Watch for the port of your rest api. By default it will bind on port 8080 and the frontend proxy settings also depend on this configuration. If you for some reasons change the port of the backend, don't forget to change the ./client/package.json proxy settings as well.
+Watch for the port of your rest api. By default it will bind on port 8080 and the frontend proxy settings also depend on this configuration. If you for some reasons change the port of the backend, don't forget to change the ./vite.config.json proxy settings as well.
 
 ### Runnig the code
 
