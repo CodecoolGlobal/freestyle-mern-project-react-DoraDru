@@ -6,8 +6,8 @@ The project is a React + Express application designed for managing events. Its p
 * <a href="https://vitejs.dev/" target="blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/vite.svg" height="25" /> Vite </a>
 * <a href="https://react.dev/" target="blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" height="25" /> React </a>
 * <a href="https://www.javascript.com/" target="blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" height="25" /> JavaScript </a>
-* <a href="https://www.javascript.com/" target="blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" height="25" /> Express </a>
-* <a href="https://www.javascript.com/" target="blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" height="25" /> MongoDB </a>
+* <a href="https://expressjs.com/" target="blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/express.svg" height="25" /> Express </a>
+* <a href="https://www.mongodb.com/" target="blank"><img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb.svg" height="25" /> MongoDB </a>
 
 ## Prerequisites
 
