@@ -31,7 +31,7 @@ cd ./server
 npm install
 ```
 
-Create a .env file and fill up the environment variable for your personal mongodb connecttion url.
+Create a .env file and fill up the environment variable for your personal mongodb connection url.
 
 ```
 MONGO_URL=<url>
